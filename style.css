@@ -1,0 +1,26 @@
+.my-nav-bar{
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
+.campuslife_mainDiv{
+    border: 1px solid #c6c6;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.campuslife hr{
+    width: 10px;
+}
+.achievements_head{
+    font-size: 20px;
+    padding: 6px 26px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.achievements_head i{
+    float: none;
+}
+.achievements_text span{
+    color: goldenrod;
+}
